@@ -1,0 +1,3 @@
+Pregunta 3 
+en la version de HTTP 2.0 se da cuando se envian muchas peticiones  y respuesta a traves de la misma 
+conexion es decir se reutliza la conecion TCP
