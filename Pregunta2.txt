@@ -1,0 +1,7 @@
+Pregunta 2 
+los objetivos que el creador git se planteo fueron os siguiente s
+----tener velocidad , diseño sencillo ,gran soporte para el desarrollo no lineal completamente distribuido
+    ademas de tener un increible sistema de ramificacion
+----copias instatanteas : git guarda los archivos y las notificaciones hechas a traves del tiempo
+----integridad  
+----la mayoria de los cambios son locales 
